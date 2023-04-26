@@ -21,7 +21,7 @@ export default function List({loanType}) {
         console.log('error', error)
         setErrorText('Error fetching market loans')
       }
-      else  setLoans(loans);
+      else setLoans(loans);
     }
 
     fetchLoans()

@@ -1,7 +1,6 @@
 
 import { useState } from 'react';
 import { ButtonGroup, Button, Stack, Flex } from '@chakra-ui/react';
-import Link from 'next/link';
 import Wrapper from './Wrapper';
 
 

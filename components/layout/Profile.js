@@ -7,12 +7,12 @@ export default function Profile() {
     return (
         <Menu>
             <MenuButton as={Button} rounded={'full'} variant={'link'} cursor={'pointer'} minW={0}>
-                <Avatar src={'https://api.dicebear.com/6.x/open-peeps/svg?randomizeIds=true&seed=sex'} />
+                <Avatar src={'https://api.dicebear.com/6.x/open-peeps/svg?randomizeIds=true&seed=sexmachine'} />
                 </MenuButton>
             <MenuList alignItems={'center'}>
                 <br />
                 <Center>
-                    <Avatar size={'2xl'} src={'https://api.dicebear.com/6.x/open-peeps/svg?randomizeIds=true&seed=sex'}/>
+                    <Avatar size={'2xl'} src={'https://api.dicebear.com/6.x/open-peeps/svg?randomizeIds=true&seed=sexmachine'}/>
                 </Center>
                 <br />
                 <Center>                    
